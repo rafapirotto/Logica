@@ -1,0 +1,1 @@
+Preguntar si en esNuevaConst en el All y Ex, la variable a sustituir tambien tiene que ser nueva.
